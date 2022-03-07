@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/nathalyrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
- ![Snake animation](https://github.com/dev-organizada/dev-organizada/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dev-organizada/dev-organizada/blob/output/github-contribution-grid-snake.svg)
   
 <!---
 Dev-Organizada/Dev-Organizada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
